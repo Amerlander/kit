@@ -1,5 +1,13 @@
 # @sveltejs/kit
 
+## 1.0.0-next.139
+
+### Patch Changes
+
+- 883d4b85: Add public API to let adapters update .gitignore
+- 1b18a844: Don't check external links on prerender
+- 7645399a: [fix] correctly pass Vite options in preview mode
+
 ## 1.0.0-next.138
 
 ### Patch Changes
